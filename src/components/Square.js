@@ -7,3 +7,4 @@ export default function Square(props) {
     </button>
   );
 }
+//maybe add some additions to the squares
